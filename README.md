@@ -12,8 +12,8 @@ Comprehensive analysis of e-commerce business, with key metrics across various d
 <br>
 
 ## **Project files:**
-### [Python code]()
-### [Presentation]()
+### [Python code](https://github.com/gnoevoy/subscriptions_testing_mobile_app/blob/main/subscriptions_testing.ipynb)
+### [Presentation](https://github.com/gnoevoy/subscriptions_testing_mobile_app/blob/main/Presentation.md)
 
 <br>
 
