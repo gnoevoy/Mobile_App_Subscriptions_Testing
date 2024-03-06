@@ -1,4 +1,4 @@
-img
+![Frame 261](https://github.com/gnoevoy/subscriptions_testing_mobile_app/assets/43414592/4039991c-b259-4b95-8a96-d00d7e0d2699)
 
 The analysis of A/B testing for a mobile app with a subscription model. The objective of this project is to prepare a mini-presentation for the product team, presenting the test results along with conclusions and suggestions for next steps. 
 
