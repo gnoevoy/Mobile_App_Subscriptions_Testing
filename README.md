@@ -1,13 +1,13 @@
 img
 
-Comprehensive analysis of e-commerce business, with key metrics across various dimensions including traffic sources, user behaviour, website performance, and product insights. The project aims to provide valuable insights for businesses overall health and performance.
+The analysis of A/B testing for a mobile app with a subscription model. The objective of this project is to prepare a mini-presentation for the product team, presenting the test results along with conclusions and suggestions for next steps. 
 
 <br>
 
 ### Project Stages:
-1. Understand the business specifics and identify key metrics.
-2. Write SQL queries to extract data and calculate metrics.
-3. Create Power BI reports to visualize and present the analysis findings.
+1. Understand the business specifics and requirements.
+2. Explore and analyze data using Python.
+3. Create Power BI dashboard to present findings to the product team.
 
 <br>
 
