@@ -19,6 +19,8 @@ Comprehensive analysis of e-commerce business, with key metrics across various d
 
 ## **Dataset Overview**
 
+![Screenshot 2024-03-06 081147](https://github.com/gnoevoy/subscriptions_testing_mobile_app/assets/43414592/5f2244a4-0bec-42f6-bf2d-2e2b5a57de6f)
+
 | Columns | Description |
 | --- | --- |
 | `user_id` | User identifier |
